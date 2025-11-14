@@ -5,6 +5,7 @@
   <img src="assets/images/02.png" alt="Tampilan Halaman Depan Portofolio raachyleuwu" width="900"/>
   <img src="assets/images/03.png" alt="Tampilan Halaman Depan Portofolio raachyleuwu" width="900"/>
   <img src="assets/images/04.png" alt="Tampilan Halaman Depan Portofolio raachyleuwu" width="900"/>
+  <img src="assets/images/05.png" alt="Tampilan Halaman Depan Portofolio raachyleuwu" width="900"/>
 </p>
 
 > *"Di dunia kepenulisan, aku ingin membuat pembaca ikut berdebar, tersenyum, sekaligus tenggelam dalam emosi tiap karakter."*
